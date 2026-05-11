@@ -18,11 +18,11 @@ Junior Model-Based \& Control Systems Engineer focused on automation, real-time 
 
 
 
-\---
+---
 
 
 
-\## About me
+## About me
 
 
 
@@ -34,37 +34,37 @@ My technical work focuses on dynamic systems, control algorithms, embedded platf
 
 
 
-\---
+---
 
 
 
-\## Technical focus
+## Technical focus
 
 
 
-\- Model-Based Design and control systems
+- Model-Based Design and control systems
 
-\- Hardware-in-the-Loop and real-time testing
+- Hardware-in-the-Loop and real-time testing
 
-\- Embedded systems with STM32 and ESP32
+- Embedded systems with STM32 and ESP32
 
-\- MATLAB/Simulink, C/C++, Python
+- MATLAB/Simulink, C/C++, Python
 
-\- System identification, PID/LQI control and optimization
+- System identification, PID/LQI control and optimization
 
-\- Machine learning for time series and engineering applications
-
-
-
-\---
+- Machine learning for time series and engineering applications
 
 
 
-\## Featured projects
+---
 
 
 
-\### STM32 Two-Tank Control System
+## Featured projects
+
+
+
+### STM32 Two-Tank Control System
 
 
 
@@ -72,7 +72,7 @@ Embedded control project for a two-tank water level system using VL53L0X sensors
 
 
 
-\### Dutch TTF Gas Price Prediction
+### Dutch TTF Gas Price Prediction
 
 
 
@@ -80,7 +80,7 @@ Machine learning project for Dutch TTF gas price prediction using time series, n
 
 
 
-\### EMG Signal Acquisition via ESP32
+### EMG Signal Acquisition via ESP32
 
 
 
@@ -88,7 +88,7 @@ Real-time EMG signal acquisition over Wi-Fi using ESP32, TCP communication and L
 
 
 
-\### Vertical Warehouse Optimization
+### Vertical Warehouse Optimization
 
 
 
@@ -96,11 +96,11 @@ MATLAB optimization project for vertical warehouse filling strategies, focused o
 
 
 
-\---
+---
 
 
 
-\## Tools and technologies
+## Tools and technologies
 
 
 
