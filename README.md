@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Michele Abbaticchio 👋</h1>
+﻿<h1 align="center">Hi, I'm Michele Abbaticchio 👋</h1>
 
 <p align="center">
   <b>Junior Model-Based & Control Systems Engineer</b><br>
@@ -15,7 +15,9 @@
 
 I'm an Automation Engineering MSc student at Politecnico di Bari, focused on model-based design, real-time control systems, Hardware-in-the-Loop testing and experimental validation.
 
-My technical work combines dynamic system modelling, embedded control, real-time testing and data-driven methods for engineering applications.
+My technical work combines dynamic system modelling, embedded control, real-time testing, optimization and data-driven methods for engineering applications.
+
+Alongside engineering projects, I also develop software applications and educational tools, including management-oriented applications and interactive tools for music learning.
 
 ---
 
@@ -28,10 +30,11 @@ My technical work combines dynamic system modelling, embedded control, real-time
 - MATLAB/Simulink, C/C++ and Python
 - Machine learning for time series and engineering applications
 - Optimization, MILP and metaheuristic algorithms for engineering problems
+- Software applications and educational tools
 
 ---
 
-## Portfolio projects
+## Engineering portfolio
 
 ### Control Systems, Embedded Systems & Robotics
 
@@ -67,6 +70,22 @@ My technical work combines dynamic system modelling, embedded control, real-time
 
 - **[Patch Antenna PSO Optimization](https://github.com/mikabba/patch-antenna-pso-optimization)**  
   Patch antenna miniaturization project using Particle Swarm Optimization with MATLAB and CST Studio Suite.
+
+---
+
+## Software applications & educational tools
+
+Alongside engineering work, I also develop software applications and educational tools.
+
+Planned areas:
+
+- **Management Software Applications**  
+  Applications focused on data management, workflow organization, scheduling and operational support.
+
+- **Music Learning Tools & Games**  
+  Educational software and small games designed to support music theory, solfeggio and learning-by-doing activities.
+
+These projects will be organized in dedicated repositories as they become ready for publication.
 
 ---
 
