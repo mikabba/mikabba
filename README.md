@@ -77,18 +77,13 @@ Alongside engineering projects, I also develop software applications and educati
 
 Alongside engineering work, I also develop software applications and educational tools.
 
-Planned areas:
+- **[Software Applications Lab](https://github.com/mikabba/software-applications-lab)**  
+  Laboratory repository for management-oriented software applications, workflow tools, scheduling utilities and application prototypes.
 
-- **Management Software Applications**  
-  Applications focused on data management, workflow organization, scheduling and operational support.
+- **[Music Education Tools](https://github.com/mikabba/music-education-tools)**  
+  Educational software and small games designed to support music theory, solfeggio and interactive music learning.
 
-- **Music Learning Tools & Games**  
-  Educational software and small games designed to support music theory, solfeggio and learning-by-doing activities.
-
-These projects will be organized in dedicated repositories as they become ready for publication.
-
----
-
+Complete and mature projects may later be moved to dedicated standalone repositories.
 ## Laboratory repositories
 
 - **[Control Systems Lab](https://github.com/mikabba/control-systems-lab)**  
@@ -117,3 +112,4 @@ These projects will be organized in dedicated repositories as they become ready 
 I'm currently building a GitHub portfolio focused on engineering projects in control systems, embedded platforms, real-time testing, optimization and machine learning.
 
 The goal is to document each project with clear architecture, methodology, reproducible code and technical results.
+
