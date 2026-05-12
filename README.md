@@ -27,48 +27,53 @@ My technical work combines dynamic system modelling, embedded control, real-time
 - System identification, PID/LQI control and optimization
 - MATLAB/Simulink, C/C++ and Python
 - Machine learning for time series and engineering applications
+- Optimization, MILP and metaheuristic algorithms for engineering problems
 
 ---
 
 ## Portfolio projects
 
-### Control Systems & Embedded Systems
+### Control Systems, Embedded Systems & Robotics
 
 - **[STM32 Two-Tank Control System](https://github.com/mikabba/stm32-two-tank-control)**  
   Embedded control project for a two-tank water level system using VL53L0X sensors, PWM pump actuation and PID/LQI controllers.
 
-- **STM32 Katana Joint Control**  
-  Joint-control project for a Neuronics Katana manipulator, with C-based control implementation, system identification and hardware troubleshooting.
+- **[STM32 Katana Joint Control](https://github.com/mikabba/stm32-katana-joint-control)**  
+  STM32-based joint-control project for a Neuronics Katana manipulator, including PID control, encoder handling, hardware troubleshooting and system identification.
 
-- **ESP32 EMG Signal Acquisition**  
-  Real-time EMG signal acquisition over Wi-Fi using ESP32, TCP communication and LabVIEW visualization.
+- **[ESP32 EMG Signal Acquisition](https://github.com/mikabba/esp32-emg-signal-acquisition)**  
+  Real-time EMG signal acquisition over Wi-Fi using ESP32, TCP communication, MyoWare sensor and LabVIEW visualization.
 
 ### Machine Learning for Engineering
 
 - **[Dutch TTF Gas Price Prediction](https://github.com/mikabba/dutch-ttf-price-prediction)**  
-  Machine learning project for Dutch TTF gas price forecasting using time series, news data and text embeddings.
+  Machine learning project for Dutch TTF gas price forecasting using time series, news data, tweet embeddings, BERT, GRU and BiLSTM models.
+
+### System Identification
+
+- **[RF System Identification - R&S Monitor](https://github.com/mikabba/rf-system-identification-rs-monitor)**  
+  System identification project for a Rohde & Schwarz radio communication service monitor using linear, nonlinear and neural-network-based models.
 
 ### Optimization & Operations Research
 
-- **Vertical Warehouse Optimization**  
-  MATLAB optimization project for vertical warehouse filling strategies, focused on reducing waste and maximizing fill ratio.
+- **[Vertical Warehouse Optimization](https://github.com/mikabba/vertical-warehouse-optimization)**  
+  MATLAB optimization project for vertical warehouse tray allocation, focused on reducing wasted space and maximizing fill ratio.
 
-- **UAV Routing with Robust MILP**  
-  Optimization project for UAV routing in uncertain scenarios using MILP formulation and Pareto analysis.
+- **[UAV Routing with Robust MILP](https://github.com/mikabba/uav-routing-robust-milp)**  
+  Multi-objective UAV routing optimization under uncertainty using MILP formulation and robust optimization concepts.
+
+- **[Evacuation Parallel PSO SimEvents](https://github.com/mikabba/evacuation-parallel-pso-simevents)**  
+  Dynamic building evacuation optimization using MATLAB, SimEvents and Parallel Particle Swarm Optimization.
+
+- **[Patch Antenna PSO Optimization](https://github.com/mikabba/patch-antenna-pso-optimization)**  
+  Patch antenna miniaturization project using Particle Swarm Optimization with MATLAB and CST Studio Suite.
 
 ---
 
 ## Laboratory repositories
 
-I use laboratory repositories to collect smaller experiments, simulations and technical notes related to control systems, embedded development, optimization and machine learning.
-
-Planned laboratory areas:
-
-- `control-systems-lab`
-- `embedded-systems-lab`
-- `matlab-optimization-lab`
-- `python-ml-engineering-lab`
-- `ros2-robotics-lab`
+- **[Control Systems Lab](https://github.com/mikabba/control-systems-lab)**  
+  Laboratory repository for smaller experiments, simulations and technical notes related to PID control, LQI control, state-space modelling, nonlinear systems, observers and system identification.
 
 ---
 
