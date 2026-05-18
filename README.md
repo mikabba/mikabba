@@ -69,6 +69,10 @@ Alongside engineering projects, I also develop software applications and educati
   Patch antenna miniaturization project using Particle Swarm Optimization with MATLAB and CST Studio Suite.
 
 ---
+## Laboratory repositories
+
+- **[Control Systems Lab](https://github.com/mikabba/control-systems-lab)**  
+  Laboratory repository for smaller experiments, simulations and technical notes related to PID control, LQI control, state-space modelling, nonlinear systems, observers and system identification.
 
 ## Software applications & educational tools
 
@@ -81,10 +85,6 @@ Alongside engineering work, I also develop software applications and educational
   Educational software and small games designed to support music theory, solfeggio and interactive music learning.
 
 Complete and mature projects may later be moved to dedicated standalone repositories.
-## Laboratory repositories
-
-- **[Control Systems Lab](https://github.com/mikabba/control-systems-lab)**  
-  Laboratory repository for smaller experiments, simulations and technical notes related to PID control, LQI control, state-space modelling, nonlinear systems, observers and system identification.
 
 ---
 
