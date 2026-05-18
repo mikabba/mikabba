@@ -82,9 +82,15 @@ These projects complement my core engineering portfolio by showing the ability t
 
 | Project | Domain | What it demonstrates |
 |---|---|---|
-| Teachers Calendar Manager | Operations / Scheduling | Scheduling logic, teacher workflows, room availability, user management and PDF export |
-| Music Notes Trainer | Educational Web Game | Interactive music-learning UI, scoring logic and immediate feedback |
-| Croce Ritmica | Gamified Music Learning | Rhythm training, game logic, user interaction and certificate generation |
+| [Teachers Calendar Manager](https://github.com/mikabba/teachers-calendar-manager) | Operations / Scheduling | Scheduling logic, teacher workflows, room availability, user management, role-based access and PDF export |
+| [Music Education Tools](https://github.com/mikabba/music-education-tools) | Educational Web Tools | Interactive music-learning games, scoring logic, rhythm training and immediate feedback |
+| [Software Applications Lab](https://github.com/mikabba/software-applications-lab) | Software Prototypes | Workspace for management-oriented applications, workflow tools and scheduling utilities |
+
+### Live tools
+
+- [Teachers Calendar Manager](https://www.accademiamusicalegirolamoscarasciullo.com/CalendarioDocenti/calendariodocenti.html)
+- [Music Notes Trainer](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html)
+- [Croce Ritmica](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html)
 
 ### Related repositories
 
