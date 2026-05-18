@@ -92,6 +92,8 @@ These projects complement my core engineering portfolio by showing the ability t
 - [Music Notes Trainer](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html)
 - [Croce Ritmica](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html)
 
+The Teachers Calendar Manager is the most complete project in this section: it includes authentication, role-based access, scheduling constraints, private runtime storage and PDF export for real operational use.
+
 ### Related repositories
 
 - [Software Applications Lab](https://github.com/mikabba/software-applications-lab)  
