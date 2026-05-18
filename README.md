@@ -44,9 +44,6 @@ Alongside engineering projects, I also develop software applications and educati
 - **[STM32 Katana Joint Control](https://github.com/mikabba/stm32-katana-joint-control)**  
   STM32-based joint-control project for a Neuronics Katana manipulator, including PID control, encoder handling, hardware troubleshooting and system identification.
 
-- **[ESP32 EMG Signal Acquisition](https://github.com/mikabba/esp32-emg-signal-acquisition)**  
-  Real-time EMG signal acquisition over Wi-Fi using ESP32, TCP communication, MyoWare sensor and LabVIEW visualization.
-
 ### Machine Learning for Engineering
 
 - **[Dutch TTF Gas Price Prediction](https://github.com/mikabba/dutch-ttf-price-prediction)**  
