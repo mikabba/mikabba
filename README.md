@@ -74,17 +74,25 @@ Alongside engineering projects, I also develop software applications and educati
 - **[Control Systems Lab](https://github.com/mikabba/control-systems-lab)**  
   Laboratory repository for smaller experiments, simulations and technical notes related to PID control, LQI control, state-space modelling, nonlinear systems, observers and system identification.
 
-## Software applications & educational tools
+## Applied Software & Real-User Tools
 
-Alongside engineering work, I also develop software applications and educational tools.
+Alongside my engineering projects, I also design and deploy lightweight web applications for real users, especially in educational and operational contexts.
 
-- **[Software Applications Lab](https://github.com/mikabba/software-applications-lab)**  
-  Laboratory repository for management-oriented software applications, workflow tools, scheduling utilities and application prototypes.
+These projects complement my core engineering portfolio by showing the ability to turn real user needs into usable, deployed software tools.
 
-- **[Music Education Tools](https://github.com/mikabba/music-education-tools)**  
-  Educational software and small games designed to support music theory, solfeggio and interactive music learning.
+| Project | Domain | What it demonstrates |
+|---|---|---|
+| Teachers Calendar Manager | Operations / Scheduling | Scheduling logic, teacher workflows, room availability, user management and PDF export |
+| Music Notes Trainer | Educational Web Game | Interactive music-learning UI, scoring logic and immediate feedback |
+| Croce Ritmica | Gamified Music Learning | Rhythm training, game logic, user interaction and certificate generation |
 
-Complete and mature projects may later be moved to dedicated standalone repositories.
+### Related repositories
+
+- [Software Applications Lab](https://github.com/mikabba/software-applications-lab)  
+  Workspace for management-oriented software applications, workflow tools, scheduling utilities and application prototypes.
+
+- [Music Education Tools](https://github.com/mikabba/music-education-tools)  
+  Collection of interactive web tools and educational games for music theory, solfeggio and rhythm training.
 
 ---
 
