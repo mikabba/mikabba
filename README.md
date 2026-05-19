@@ -77,9 +77,9 @@ Alongside engineering projects, I also develop software applications and educati
 
 ## Applied Software & Real-User Tools
 
-In addition to my engineering portfolio, I also design and deploy lightweight software tools for real users, mainly in educational and operational contexts.
+In addition to my engineering portfolio, I also design and deploy practical software tools for real users, mainly in educational and operational contexts.
 
-These projects are organized into two showcase repositories, which act as entry points to individual applications and deployed tools.
+These projects are organized into two showcase repositories that serve as entry points to individual applications, prototypes and deployed tools.
 
 | Showcase repository | Focus | What it demonstrates |
 |---|---|---|
@@ -91,7 +91,7 @@ These projects are organized into two showcase repositories, which act as entry 
 - [Teachers Calendar Manager](https://github.com/mikabba/teachers-calendar-manager)  
   A deployed operational tool for teacher scheduling and room availability management, including authentication, role-based access, scheduling constraints, private runtime storage and PDF export.
 
-For additional deployed tools and prototypes, see the two showcase repositories above.
+For additional deployed tools, educational applications and software prototypes, see the two showcase repositories above.
 
 ## Tools and technologies
 
@@ -111,7 +111,5 @@ For additional deployed tools and prototypes, see the two showcase repositories 
 
 ## Current direction
 
-I am consolidating this portfolio around model-based engineering, embedded control, real-time testing, optimization and engineering machine learning, with an emphasis on reproducible code, clear methodology and measurable technical results.
-
-The goal is to document each project with clear architecture, methodology, reproducible code and technical results.
+I am consolidating this portfolio around model-based engineering, embedded control, real-time testing, optimization and engineering machine learning, with an emphasis on clear architecture, reproducible code, technical methodology and measurable results.
 
