@@ -69,6 +69,7 @@ Alongside engineering projects, I also develop software applications and educati
   Patch antenna miniaturization project using Particle Swarm Optimization with MATLAB and CST Studio Suite.
 
 ---
+
 ## Laboratory repositories
 
 - **[Control Systems Lab](https://github.com/mikabba/control-systems-lab)**  
@@ -76,33 +77,21 @@ Alongside engineering projects, I also develop software applications and educati
 
 ## Applied Software & Real-User Tools
 
-Alongside my engineering projects, I also design and deploy lightweight web applications for real users, especially in educational and operational contexts.
+In addition to my engineering portfolio, I also design and deploy lightweight software tools for real users, mainly in educational and operational contexts.
 
-These projects complement my core engineering portfolio by showing the ability to turn real user needs into usable, deployed software tools.
+These projects are organized into two showcase repositories, which act as entry points to individual applications and deployed tools.
 
-| Project | Domain | What it demonstrates |
+| Showcase repository | Focus | What it demonstrates |
 |---|---|---|
-| [Teachers Calendar Manager](https://github.com/mikabba/teachers-calendar-manager) | Operations / Scheduling | Scheduling logic, teacher workflows, room availability, user management, role-based access and PDF export |
-| [Music Education Tools](https://github.com/mikabba/music-education-tools) | Educational Web Tools | Interactive music-learning games, scoring logic, rhythm training and immediate feedback |
-| [Software Applications Lab](https://github.com/mikabba/software-applications-lab) | Software Prototypes | Workspace for management-oriented applications, workflow tools and scheduling utilities |
+| [Software Applications Lab](https://github.com/mikabba/software-applications-lab) | Management-oriented and operational tools | Scheduling workflows, user management, role-based access, room availability, PDF export and real-world application logic |
+| [Music Education Tools](https://github.com/mikabba/music-education-tools) | Educational web tools for music learning | Interactive exercises, scoring logic, rhythm training, immediate feedback and student-oriented interfaces |
 
-### Live tools
+### Highlighted application
 
-- [Teachers Calendar Manager](https://www.accademiamusicalegirolamoscarasciullo.com/CalendarioDocenti/calendariodocenti.html)
-- [Music Notes Trainer](https://www.accademiamusicalegirolamoscarasciullo.com/NotePentagramma/righespazi.html)
-- [Croce Ritmica](https://www.accademiamusicalegirolamoscarasciullo.com/GiocoCroceRitmica/index.html)
+- [Teachers Calendar Manager](https://github.com/mikabba/teachers-calendar-manager)  
+  A deployed operational tool for teacher scheduling and room availability management, including authentication, role-based access, scheduling constraints, private runtime storage and PDF export.
 
-The Teachers Calendar Manager is the most complete project in this section: it includes authentication, role-based access, scheduling constraints, private runtime storage and PDF export for real operational use.
-
-### Related repositories
-
-- [Software Applications Lab](https://github.com/mikabba/software-applications-lab)  
-  Workspace for management-oriented software applications, workflow tools, scheduling utilities and application prototypes.
-
-- [Music Education Tools](https://github.com/mikabba/music-education-tools)  
-  Collection of interactive web tools and educational games for music theory, solfeggio and rhythm training.
-
----
+For additional deployed tools and prototypes, see the two showcase repositories above.
 
 ## Tools and technologies
 
@@ -122,7 +111,7 @@ The Teachers Calendar Manager is the most complete project in this section: it i
 
 ## Current direction
 
-I'm currently building a GitHub portfolio focused on engineering projects in control systems, embedded platforms, real-time testing, optimization and machine learning.
+I am consolidating this portfolio around model-based engineering, embedded control, real-time testing, optimization and engineering machine learning, with an emphasis on reproducible code, clear methodology and measurable technical results.
 
 The goal is to document each project with clear architecture, methodology, reproducible code and technical results.
 
